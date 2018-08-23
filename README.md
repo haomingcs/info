@@ -1,9 +1,5 @@
 # <p align="center"> <b>Ming Hao (Ph.D.)</b> </p>
 
-<font size=5>your_text_here</font>
-
-<font size=10>your_text_here</font>
-
 ## <p align="center"> haomingcs@gmail.com </p>
 
 # Publications

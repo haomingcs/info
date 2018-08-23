@@ -1,4 +1,4 @@
-# <p align="center"> <b>Ming Hao</b> </p>
+# <p align="center"> <b>Ming Hao (Ph.D.)</b> </p>
 
 ## <p align="center"> haomingcs@gmail.com </p>
 

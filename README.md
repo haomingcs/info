@@ -36,3 +36,31 @@
 20.	Takeda T, **Hao M**, Cheng T, Bryant S, Wang Y. [Predicting drug-drug interactions through drug structural similarities and interaction networks incorporating pharmacokinetics and pharmacodynamics knowledge](https://www.ncbi.nlm.nih.gov/pubmed/28316654). *Journal of Cheminformatics* **9**, 16 (2017).
 21.	Cheng T, **Hao M**, Takeda T, Bryant S, Wang Y. [Large-scale prediction of drug-target interaction: a data-centric review](https://www.ncbi.nlm.nih.gov/pubmed/28577120). *The AAPS Journal* **19**, 1264-1275 (2017).
 22.	**Hao M**, Bryant S, Wang Y. [Open-source chemogenomic data-driven algorithms for predicting drug-target interactions](https://www.ncbi.nlm.nih.gov/pubmed/29420684). *Briefings in Bioinformatics* (2018).
+
+# Invited Journal Reviewer
+1. ACS Omega
+2. Applied Computing and Informatics
+3. Briefings in Bioinformatics
+4. Bioinformatics
+5. BMC Systems Biology
+6. BioData Mining
+7. ChemMedChem
+8. Chemistry & Biology, Cell Press
+9. Chemistry Central Journal
+10. Computational Biology and Chemistry
+11. Chemical Biology & Drug Design
+12. DATABASE: The Journal of Biological Databases and Curation
+13. Ecotoxicology and Environmental Safety
+14. Health Informatics Journal
+15. Iranian Journal of Science and Technology, Transactions A: Science
+16. IEEE Journal of Biomedical and Health Informatics
+17. Journal of Cheminformatics
+18. Journal of Molecular Graphics and Modelling
+19. Journal of Neurotrauma
+20. Journal of Receptors and Signal Transduction
+21. Letter in Drug Design and Discovery
+22. Molecular Genetics and Genomics
+23. PLOS ONE
+24. Scientific Reports
+25. Statistical Methods in Medical Research
+26. The AAPS Journal
